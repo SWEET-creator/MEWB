@@ -1,5 +1,4 @@
 # MEWB
-# MEWB
  
 MEWB(My English Word Book)は自分だけの英単語帳をノートパソコン上で簡単に作成し，それをテストすることが可能なソフトです．
  
