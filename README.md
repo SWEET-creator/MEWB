@@ -16,7 +16,7 @@ MEWBはシンプルかつスタイリッシュなGUIを採用しています．
   
 ```bash
 pip3 install tkinter
-``
+```
  
 # Usage
 
